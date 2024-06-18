@@ -1,0 +1,23 @@
+
+
+C:\CosasJava\apache-maven-3.9.8\bin
+agregamos las variables de entorno en la config de windows
+en Path
+
+
+adicional creamos una nueva variable de entorno %java ***%
+
+
+con esos comandos se hace la parte del validar
+java -version
+mvn -v
+
+em visual studio code:
+
+vamos a la parte de perfiles y creamos un o nevo para que no se aloque el VS code
+este perfir se llmaara Java y usara como base la plantilla de Java Sprint
+eso nos instalara 12 complentos de java
+
+54:15 fin seccion 1
+
+
