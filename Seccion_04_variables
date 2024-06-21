@@ -44,6 +44,20 @@ que puede varuiar
 
         char letra = 'a'; //comilla simple
 
+        //char letras = 'hola';  // no funciona asi
+
+        // Boleanos
+        boolean v = true;
+        boolean f = false;
+
+        //Fin de datos tipo primitivos
+
+        //############ Iniicon de String
+
+        String texto = "este va con comillas dobles";
+        System.out.println(texto);
+
+        //01:23:18 fin
 
 
 01:20:41
