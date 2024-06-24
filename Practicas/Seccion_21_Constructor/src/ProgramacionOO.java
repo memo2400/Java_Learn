@@ -6,10 +6,10 @@ public class ProgramacionOO {
     public static void main(String[] args) throws Exception {
         
         // new es para instancias
-        Persona persona1 = new Persona("Xi", "Xin Ping", 60, "Lider");
+        Persona persona1 = new Persona("Xi", "Xin Ping", 60, "Lider Supremo", 20, false);
         // voy a ctrl + , = para usar inlay hints, que nos sive de ayuda
         // 04:01:28 
-
+        System.out.println(persona1.apellido + persona1.nombre + " tiene " + persona1.edad + " Esta recibido de " + persona1.carrera.nombre);
 
         /* // Coemtop esto al ahora tener el constructor FHD
         persona1.nombre = "Xi";
@@ -53,7 +53,7 @@ public class ProgramacionOO {
         
         System.out.println(persona1.EnviarSaludo("Luke Skywoker!!"));        
 
-
+        // 04:05:09 Fin
         
 
     }
