@@ -19,13 +19,28 @@ public class Persona {
      //String [] tecnologias;
      //boolean EsEstudiante;
 
-     //03:35:46
-
     /*
     * Metodo de la clase
     * define el comportamiento
     * 
     */
+
+    // se suele usar el mismo nombre de nuestra clase 
+    public Persona (String NombreParametro, String apellido, int edad, String NombreCarrera){
+
+        // aqui genero la instancia para que en el main ya no deba hacer la instancia.
+        carrera = new Carrera();
+
+        // this.nombre = es de los atributos  despues del "=" es del constructor de aqui arriba osea el parametro de la funcion- constructor        
+        this.nombre = NombreParametro;
+        this.apellido = apellido;
+        this.edad = edad;
+
+        // aqui gacenmos el accero a la clase carrera que es del otro archivo, como el parametro es distinto no ponemos el this
+        carrera.nombre = NombreCarrera;
+
+    }
+
     public String DarNombreCompleto(){
 
         // se usa para regresar algo, como vemos se hace directo
