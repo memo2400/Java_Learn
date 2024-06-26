@@ -4,6 +4,8 @@
  * necesitamos un constructor
  * 
  * La palabra super nos indica que estamos heredando esos parametros
+ * 
+ * aqui podemo ahorrarnos mucho codigo
  */
 
 public class Gato extends Animal {
