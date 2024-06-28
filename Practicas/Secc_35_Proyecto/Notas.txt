@@ -1,0 +1,32 @@
+
+vamos a hacer un crud
+
+vamos primero a usar spring initializwer q  ue ya teniamos instalado
+
+ctrl + shif  + p
+
+spring boot maven initializwer
+
+usamos la version 3.2.x 
+
+usamos java
+
+
+usamos Jar que se ejecuta donde sea
+
+usamos la 21
+
+
+las dependencias seran
+    srping web
+    Spring data jpa sql
+    postgres sql driver
+
+escojemos la carpeta y full hd
+
+
+fin 6:23:44
+
+
+
+
