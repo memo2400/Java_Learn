@@ -7,11 +7,15 @@ Valor, es la ruta donde esta instalado:
 C:\Program Files\Java\jdk-21
 
 
--Vamos al variable entorno > ptah para agregar el bin a la consola
-adentro de path damo en nuevo - y agregamos ruta C:\Program Files\Java\jdk-21\bin
+-Vamos al "variable entorno > path" para agregar el bin a la consola, todo lo agregado en path se podra usar en la consola de windows.
+adentro de path damos en nuevo y agregamos ruta (debe ser la de la carpeta BIN):
+C:\Program Files\Java\jdk-21\bin
+
 Luego lo subimos hasta arriba
+para que quede arriba de todas las java con diferenctes versiones que tengamos
 
-
+Hasta aqui es Maven:
+#################
 
 C:\CosasJava\apache-maven-3.9.8\bin
 agregamos las variables de entorno en la config de windows
