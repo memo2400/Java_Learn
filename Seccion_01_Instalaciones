@@ -37,6 +37,7 @@ mvn -v
 
 
 #################
+HACER PERFIL JAVA EN VSC
 em visual studio code:
 
 vamos a la parte de perfiles y creamos un o nevo para que no se aloque el VS code
