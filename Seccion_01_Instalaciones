@@ -16,6 +16,12 @@ para que quede arriba de todas las java con diferenctes versiones que tengamos
 
 Hasta aqui es Maven:
 #################
+VALIDAR VERSION DE JAVA INSTALADA
+
+con esos comandos 
+$ java -version
+
+#################
 
 C:\CosasJava\apache-maven-3.9.8\bin
 agregamos las variables de entorno en la config de windows
@@ -24,9 +30,9 @@ en Path
 
 adicional creamos una nueva variable de entorno %java ***%
 
+#################
+CHECAR QUE EL MAVEN ESTE INSTALADO
 
-con esos comandos se hace la parte del validar
-java -version
 mvn -v
 
 em visual studio code:
