@@ -35,6 +35,8 @@ CHECAR QUE EL MAVEN ESTE INSTALADO
 
 mvn -v
 
+
+#################
 em visual studio code:
 
 vamos a la parte de perfiles y creamos un o nevo para que no se aloque el VS code
