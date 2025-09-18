@@ -1,6 +1,9 @@
 
--Agregamos nueva variable del sistema
+Primero:
+-Agregamos nueva variable del sistema, por si alguin busca la palabra JAVA, no es tan necesario
+Nombre: 
 %JAVA_HOME%
+Valor, es la ruta donde esta instalado:
 C:\Program Files\Java\jdk-21
 
 
