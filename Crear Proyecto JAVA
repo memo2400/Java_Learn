@@ -65,3 +65,20 @@ Por ejemplo esta el "dotenv" que sirve para leer archivos de tipo entorno virtua
 
 la carpeta MVN/wraper tiene todo lo relacionado al archivo POM pero empaquetado
 
+.vscode tiene todo lo relacionado a las configuraciones que usemos en VSCode
+
+-tenemos el SRC que es donde esta main nuestro main principal
+-tenemos el resources static para cosas como fotos etc
+-templates para plantillas
+-application.properties : BDatos, variables de datos, es muy importante
+
+target classes: alli se guardan archivo para que los lea la JVM (java virtual machine) osea los binarios
+
+###########################
+
+Donde esta el main principal es donde hacemos la carpatas:
+  -controller
+  -entities
+  -repositories
+
+6:32:27
