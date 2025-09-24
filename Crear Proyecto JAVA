@@ -10,3 +10,47 @@ Creamos el nombre del proyecto
 
 Lo que esta en main correra al inicio, del programa, 
 todo debe partir de alli, del main.
+
+####################################
+
+Para crear un proyecto FHD con spring y demas 
+debemos tener instalado el complemento de Spring boot initializer.
+
+generar new proyecto
+Ctrl + Shif + p
+
+$Spring Initializr: Create a Maven proyect.
+
+
+Seleccionamos la version de springbooot
+
+Seleccionamos el lenguaje a usar.
+
+Luego el groupID
+".com.nombre.personalizado"
+
+Luego el artifac ID del proyecto
+"nombrequequerramos"
+
+Elejimos el paquete de exportacion, elegimos
+"JAR"
+por ser el mas usado
+
+
+Seleccionamos la version de java que instalamos
+"21"
+
+Seleccionamos Dependencias:
+  -Spring Web
+  -Spring Data JPA SQL
+  -PostgresSQL Driver
+
+
+Damos enter en el renglon superior que esta en blanco,
+
+
+-Ahora Seleeccionamos la carpeta creada
+
+
+
+
