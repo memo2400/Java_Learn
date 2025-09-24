@@ -57,6 +57,7 @@ En el POM.xml
 esta todo lo relacionado al proyecto
 la version javam nombre de proyecto, version de proyecto
 Las dependencias son importantisimas.
+Inlcuso hay una parte de spring-boot-starter-test, para hacer pruebas
 
 
 
