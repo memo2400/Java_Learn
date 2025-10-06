@@ -1,3 +1,4 @@
+import Exceptions.CalculadoraExeption;
 import Exceptions.DividirPorCeroException;
 
 public class App {
@@ -12,10 +13,19 @@ public class App {
         
         try{
             resultado = calculadora.division(numero1, numero2);
-            System.out.println("se intento el bloque");
-        }catch(DividirPorCeroException error){
+            System.out.println("se intento el bloque " + resultado);
+        }
+        // catch(DividirPorCeroException error){
+        //     error.printStackTrace();
+        //     System.out.println("eso causo el error");
+        // }
+        catch(CalculadoraExeption error){
             error.printStackTrace();
             System.out.println("eso causo el error");
+        }
+        //Este va despues de try o de catch sin importar cual pase
+        finally {
+            System.out.println("\n Ya se realizo el calculo, del bloque Try Catch");
         }
 
     }
