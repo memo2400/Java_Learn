@@ -1,6 +1,8 @@
 package interfaces;
 
 // UNA INTERFAZ NO puede tener constructores
+// le da felxibilidad al codigo, al poder usar muchas interfazes
+// de dentro de las clases como delfin
 
 public interface Comunicable {
 

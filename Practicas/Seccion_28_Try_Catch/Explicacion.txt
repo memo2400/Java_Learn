@@ -1,0 +1,5 @@
+
+Las exepciones hacen que se interrumpa el codigo
+
+pueder ser chechk o uncheck
+

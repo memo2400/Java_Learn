@@ -1,13 +1,13 @@
 
 vamos a hacer un crud
 
-vamos primero a usar spring initializwer q  ue ya teniamos instalado
+vamos primero a usar spring initializwr q  ue ya teniamos instalado
 
 ctrl + shif  + p
 
-spring boot maven initializwer
+spring initializ: Create maven projecter
 
-usamos la version 3.2.x 
+usamos la version 3.2.4. 
 
 usamos java
 

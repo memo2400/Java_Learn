@@ -1,0 +1,28 @@
+
+
+
+
+INTERFAZ
+
+// UNA INTERFAZ NO puede tener constructores
+// le da felxibilidad al codigo, al poder usar muchas interfazes
+// de dentro de las clases como delfin
+
+Interfaz:
+NO PODEMOS TENER VARIABLES private no podemos hacer getters y setters
+si podemos tener static, public y final.
+
+La clase que herede de sta interfaz, Se obliga a usar los metodos que 
+aslen en la interfaz
+
+
+CLase ABSTRACTA
+
+    // al ser clase abstracta no se puede instanciar,
+    // pero con el super si lo haremos
+
+    // La clase abstracta es para hacer cosas como
+    // persona - profesor - profesor de matematicas
+    // osea como una piramide
+    // La interfaz sera para cosas genericas, como 
+    // empleados como quienes factura sy los que no 

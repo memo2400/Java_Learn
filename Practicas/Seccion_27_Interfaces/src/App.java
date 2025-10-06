@@ -8,7 +8,13 @@ public class App {
         delfin.alimentar();
         delfin.comunicarse();
 
-        // 04:57:00
+        Pulpo pulpo = new Pulpo("pulpi", 10);
+
+        pulpo.nadar();
+        pulpo.alimentar();
+        pulpo.comunicarse();
+
+        // FIN
 
     }
 }
