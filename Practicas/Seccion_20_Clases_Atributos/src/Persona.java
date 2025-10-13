@@ -1,5 +1,6 @@
 
-// clas publica, si es private ya no se puede acceder desde fuera
+// class publica, si es private ya no se puede acceder desde fuera
+// todo lo de adentro por default es publico
 public class Persona {
     /*
      * Agrege este archivo dando clic derecho en carpeta src, y despuyes en 
@@ -13,7 +14,7 @@ public class Persona {
      String apellido;
      int edad;
 
-     // importo lo de la otra clase
+     // importo lo de la otra clase, como parametro
      Carrera carrera;
      
      //String [] tecnologias;
@@ -42,7 +43,7 @@ public class Persona {
         
         return "hola como estas " + saludado + "!!!";
 
-        // aqui abajo ya no pondriamos nada por que el retunr corta
+        // aqui abajo ya no pondriamos nada por que el return corta
 
     }
 
